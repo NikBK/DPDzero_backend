@@ -1,7 +1,10 @@
 # DPDzero_backend
 In this project, Node.js with Express.js has been used as a framework to handle backend API's.
-The data is not been stored in any database but stored in local variables.
+
 A testingFile.py has been included to test the api's.
+
+The data has not been stored in any database but stored in local variables.
+
 # Setup & Run
 Execute the below code if testing locally.
 1. npm i (to install necessary dependencies mentioned in the package.json file).
